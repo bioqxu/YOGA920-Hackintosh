@@ -1,0 +1,76 @@
+19:078  4:907  Found UEFI Acpi 2.0 RSDP at 2FFFD014
+19:078  0:000  Saving ACPI tables from RSDP 2FFFD014 to EFI\CLOVER\ACPI\origin ...
+19:078  0:000   2FFFD014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+19:078  0:000    (Xsdt: 2FFB5188, Rsdt: 2FFB50C4)
+19:078  0:000    2FFB5188: 'XSDT', 'CB-01', Rev: 1, Len: 284
+19:078  0:000    2FFB50C4: 'RSDT', 'CB-01', Rev: 1, Len: 160
+19:078  0:000    Tables in Xsdt: 31
+19:078  0:000    0. 2FFE9000: 'FACP', 'CB-01', Rev: 5, Len: 268
+19:078  0:000        (Dsdt: 2FFBA000, Facs: 2FF56000, XDsdt: 2FFBA000, XFacs: 0)
+19:078  0:000        2FFBA000: 'DSDT', 'CB-01', Rev: 2, Len: 177115
+19:080  0:001        2FF56000: 'FACS', Ver: 2, Len: 64
+19:080  0:000    1. 2FFFC000: 'UEFI', 'CB-01', Rev: 1, Len: 566
+19:080  0:000    2. 2FFFB000: 'UEFI', 'CB-01', Rev: 1, Len: 66
+19:080  0:000    3. 2FFFA000: 'MSDM', 'CB-01', Rev: 3, Len: 85
+19:080  0:000    4. 2FFF9000: 'SSDT', 'CB-01', Rev: 2, Len: 1219
+19:080  0:000    5. 2FFF8000: 'SSDT', 'CB-01', Rev: 2, Len: 70
+19:080  0:000    6. 2FFF7000: 'TPM2', 'CB-01', Rev: 3, Len: 52
+19:080  0:000    7. 2FFF3000: 'SSDT', 'CB-01', Rev: 2, Len: 12545
+19:080  0:000    8. 2FFEE000: 'SSDT', 'CB-01', Rev: 2, Len: 19116
+19:080  0:000    9. 2FFED000: 'ASF!', 'CB-01', Rev: 32, Len: 165
+19:080  0:000    10. 2FFEC000: 'ASPT', 'CB-01', Rev: 7, Len: 52
+19:080  0:000    11. 2FFEB000: 'BOOT', 'CB-01', Rev: 1, Len: 40
+19:080  0:000    12. 2FFEA000: 'DBGP', 'CB-01', Rev: 1, Len: 52
+19:080  0:000    13. 2FFE8000: 'HPET', 'CB-01', Rev: 1, Len: 56
+19:080  0:000    14. 2FFE7000: 'APIC', 'CB-01', Rev: 3, Len: 188
+19:080  0:000    15. 2FFE6000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+19:080  0:000    16. 2FFB9000: 'SSDT', 'CB-01', Rev: 2, Len: 1717
+19:080  0:000    17. 2FFB8000: 'LPIT', 'CB-01', Rev: 1, Len: 148
+19:080  0:000    18. 2FFB7000: 'WSMT', 'CB-01', Rev: 1, Len: 40
+19:080  0:000    19. 2FFB6000: 'SSDT', 'CB-01', Rev: 2, Len: 671
+19:080  0:000    20. 2FFB4000: 'SSDT', 'CB-01', Rev: 1, Len: 838
+19:080  0:000    21. 2FFB0000: 'SSDT', 'CB-01', Rev: 2, Len: 12290
+19:080  0:000    22. 2FFAF000: 'SSDT', 'CB-01', Rev: 2, Len: 1310
+19:080  0:000    23. 2FFAE000: 'DBGP', 'CB-01', Rev: 1, Len: 52
+19:080  0:000    24. 2FFAD000: 'DBG2', 'CB-01', Rev: 0, Len: 84
+19:080  0:000    25. 2FFAC000: 'SSDT', 'CB-01', Rev: 2, Len: 3908
+19:080  0:000    26. 2FFAB000: 'SSDT', 'CB-01', Rev: 2, Len: 3806
+19:080  0:000    27. 2FFAA000: 'DMAR', 'CB-01', Rev: 1, Len: 312
+19:080  0:000    28. 2FFA9000: 'NHLT', 'CB-01', Rev: 0, Len: 45
+19:080  0:000    29. 2FFA8000: 'FPDT', 'CB-01', Rev: 1, Len: 68
+19:080  0:000    30. 2FFA7000: 'BGRT', 'CB-01', Rev: 1, Len: 56
+19:080  0:000    Tables in Rsdt: 31
+19:080  0:000    0. 2FFE9000: 'FACP', 'CB-01', Rev: 5, Len: 268
+19:080  0:000        (Dsdt: 2FFBA000, Facs: 2FF56000, XDsdt: 2FFBA000, XFacs: 0)
+19:080  0:000        2FFBA000: 'DSDT', 'CB-01', Rev: 2, Len: 177115
+19:082  0:001        2FF56000: 'FACS', Ver: 2, Len: 64
+19:082  0:000    1. 2FFFC000: 'UEFI', 'CB-01', Rev: 1, Len: 566
+19:082  0:000    2. 2FFFB000: 'UEFI', 'CB-01', Rev: 1, Len: 66
+19:082  0:000    3. 2FFFA000: 'MSDM', 'CB-01', Rev: 3, Len: 85
+19:082  0:000    4. 2FFF9000: 'SSDT', 'CB-01', Rev: 2, Len: 1219
+19:082  0:000    5. 2FFF8000: 'SSDT', 'CB-01', Rev: 2, Len: 70
+19:082  0:000    6. 2FFF7000: 'TPM2', 'CB-01', Rev: 3, Len: 52
+19:082  0:000    7. 2FFF3000: 'SSDT', 'CB-01', Rev: 2, Len: 12545
+19:082  0:000    8. 2FFEE000: 'SSDT', 'CB-01', Rev: 2, Len: 19116
+19:082  0:000    9. 2FFED000: 'ASF!', 'CB-01', Rev: 32, Len: 165
+19:082  0:000    10. 2FFEC000: 'ASPT', 'CB-01', Rev: 7, Len: 52
+19:082  0:000    11. 2FFEB000: 'BOOT', 'CB-01', Rev: 1, Len: 40
+19:082  0:000    12. 2FFEA000: 'DBGP', 'CB-01', Rev: 1, Len: 52
+19:082  0:000    13. 2FFE8000: 'HPET', 'CB-01', Rev: 1, Len: 56
+19:082  0:000    14. 2FFE7000: 'APIC', 'CB-01', Rev: 3, Len: 188
+19:082  0:000    15. 2FFE6000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+19:082  0:000    16. 2FFB9000: 'SSDT', 'CB-01', Rev: 2, Len: 1717
+19:082  0:000    17. 2FFB8000: 'LPIT', 'CB-01', Rev: 1, Len: 148
+19:082  0:000    18. 2FFB7000: 'WSMT', 'CB-01', Rev: 1, Len: 40
+19:082  0:000    19. 2FFB6000: 'SSDT', 'CB-01', Rev: 2, Len: 671
+19:082  0:000    20. 2FFB4000: 'SSDT', 'CB-01', Rev: 1, Len: 838
+19:082  0:000    21. 2FFB0000: 'SSDT', 'CB-01', Rev: 2, Len: 12290
+19:082  0:000    22. 2FFAF000: 'SSDT', 'CB-01', Rev: 2, Len: 1310
+19:082  0:000    23. 2FFAE000: 'DBGP', 'CB-01', Rev: 1, Len: 52
+19:082  0:000    24. 2FFAD000: 'DBG2', 'CB-01', Rev: 0, Len: 84
+19:082  0:000    25. 2FFAC000: 'SSDT', 'CB-01', Rev: 2, Len: 3908
+19:082  0:000    26. 2FFAB000: 'SSDT', 'CB-01', Rev: 2, Len: 3806
+19:082  0:000    27. 2FFAA000: 'DMAR', 'CB-01', Rev: 1, Len: 312
+19:082  0:000    28. 2FFA9000: 'NHLT', 'CB-01', Rev: 0, Len: 45
+19:082  0:000    29. 2FFA8000: 'FPDT', 'CB-01', Rev: 1, Len: 68
+19:082  0:000    30. 2FFA7000: 'BGRT', 'CB-01', Rev: 1, Len: 56
