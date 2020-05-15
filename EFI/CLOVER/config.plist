@@ -396,7 +396,7 @@
 				<key>Comment</key>
 				<string>USB Port limit patch #1/2 10.15.x (credit DalianSky)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>g/sPDw==</data>
 				<key>InfoPlistPatch</key>
@@ -412,7 +412,7 @@
 				<key>Comment</key>
 				<string>USB Port limit patch #2/2 10.15.x (credit DalianSky)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>g/kPDw==</data>
 				<key>InfoPlistPatch</key>
@@ -459,22 +459,22 @@
 		<key>MLB</key>
 		<string>C02CM054JHCCAAAAA</string>
 		<key>ROM</key>
-		<data>xxC1szQu</data>
+		<data>YGKhFQEs</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>03/17/2020</string>
+		<string>01/05/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP152.88Z.F000.B00.2003170152</string>
+		<string>MBP152.88Z.F000.B00.2001052154</string>
 		<key>Board-ID</key>
 		<string>Mac-827FB448E656EC26</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02812301J9JH4R1F</string>
+		<string>C02CM054JHCCAAAAA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -486,7 +486,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>1037.100.359.0.0</string>
+		<string>1037.80.41.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -504,14 +504,18 @@
 		<key>ProductName</key>
 		<string>MacBookPro15,2</string>
 		<key>SerialNumber</key>
-		<string>C02WGFYAJHCC</string>
+		<string>C02CM054JHCC</string>
 		<key>SmUUID</key>
-		<string>1FC7F8FE-4F41-49EC-82BC-F6B4F8B3342E</string>
+		<string>A0CA4001-125F-45FC-8CFF-FECBC715012C</string>
+		<key>Trust</key>
+		<true/>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
+		<key>CustomUUID</key>
+		<string>A0CA4001-125F-45FC-8CFF-FECBC715012C</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 	</dict>
